@@ -1,1 +1,2 @@
+* Competitive Programming
 This repository contains my competitive programming solutions. They are not meant to be of interest to other people, but I simply keep version control them because they are occasionally useful to reference when solving other problems.
